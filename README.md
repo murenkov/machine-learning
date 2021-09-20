@@ -13,3 +13,4 @@
 * `numpy`
 * `matplotlib`
 * `tensorflow` с поддержкой `keras`
+* `sklearn`
